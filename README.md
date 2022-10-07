@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jamz25/Jamz25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Itch.io for semi-finished projects: https://jamzdev.itch.io/
-Youtube channel teaching people to code and sharing projects: https://www.youtube.com/channel/UCstmJGmipGMP_sbWMWg11jA
+##Itch.io for semi-finished projects: https://jamzdev.itch.io/
+##Youtube channel teaching people to code and sharing projects: https://www.youtube.com/channel/UCstmJGmipGMP_sbWMWg11jA
