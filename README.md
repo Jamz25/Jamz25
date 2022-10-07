@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# [Itch.io](https://jamzdev.itch.io/) for semi-finished projects
+### [Itch.io](https://jamzdev.itch.io/) for semi-finished projects
 
-# [Youtube channel](https://www.youtube.com/channel/UCstmJGmipGMP_sbWMWg11jA) teaching people to code and sharing projects
+### [Youtube channel](https://www.youtube.com/channel/UCstmJGmipGMP_sbWMWg11jA) teaching people to code and sharing projects
